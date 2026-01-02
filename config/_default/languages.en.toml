@@ -1,0 +1,17 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Vin Patel "
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+["params.author"]
+name = "Vin Patel"
+image = "img/vinpatel.jpeg"
+headline = "Bestselling Author | Technology Visionary | AI Transformation Pioneer | Global Thought Leader"
+
