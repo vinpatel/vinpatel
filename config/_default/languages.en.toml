@@ -10,7 +10,7 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 
-["params.author"]
+[params.author]
 name = "Vin Patel"
 image = "img/vinpatel.jpeg"
 headline = "Bestselling Author | Technology Visionary | AI Transformation Pioneer | Global Thought Leader"
