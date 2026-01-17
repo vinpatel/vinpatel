@@ -4,7 +4,7 @@ date: 2025-01-01
 description: "Open source AI content detection. Detect AI-generated text, images, audio, video. Self-hosted, offline, zero dependencies."
 summary: "An offline, self-hosted tool for detecting AI-generated content across text, images, audio, and video."
 tags: ["AI", "Open Source", "Go", "Content Detection", "Privacy"]
-externalUrl: "https://github.com/vinpatel/humanmark"
+externalUrl: "https://github.com/vinpatel/HumanMark"
 showTableOfContents: true
 ---
 
@@ -49,4 +49,4 @@ Evaluates format metadata, encoder signatures, and AI tool indicators.
 
 ## Get Started
 
-Visit the [GitHub repository](https://github.com/vinpatel/humanmark) to learn more and get started.
+Visit the [GitHub repository](https://github.com/vinpatel/HumanMark) to learn more and get started.
