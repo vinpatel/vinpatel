@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e293b"/>
+      <stop offset="100%" style="stop-color:#0f172a"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="check" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#10b981"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" rx="64" fill="url(#bg)"/>
+  
+  <!-- Subtle grid -->
+  <g opacity="0.05">
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#3b82f6" stroke-width="0.5"/>
+    </pattern>
+    <rect width="512" height="512" fill="url(#grid)"/>
+  </g>
+  
+  <!-- Shield -->
+  <g transform="translate(256, 240)">
+    <path d="M0,-120 L100,-90 L100,40 C100,100 50,145 0,160 C-50,145 -100,100 -100,40 L-100,-90 Z" 
+          fill="none" stroke="url(#shield)" stroke-width="8" filter="url(#glow)"/>
+    
+    <!-- Check mark -->
+    <path d="M-40,10 L-15,45 L50,-35" 
+          fill="none" stroke="url(#check)" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="256" y="430" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#ffffff">
+    HumanMark
+  </text>
+  <text x="256" y="470" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#64748b">
+    AI Detection
+  </text>
+</svg>

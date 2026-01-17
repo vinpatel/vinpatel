@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HumanMark</title>
+      <link>http://localhost:1313/projects/humanmark/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/humanmark/</guid>
+      <description>The only AI detector that runs 100% on your infrastructure. Detect AI-generated text, images, audio &amp;amp; video—offline, self-hosted, zero external API calls.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/humanmark/feature.svg" />
+    </item>
     
     <item>
       <title>The AI Creative Revolution: Image &amp; Video Generators Have Crossed the Threshold</title>
