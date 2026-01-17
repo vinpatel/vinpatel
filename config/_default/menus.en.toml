@@ -16,6 +16,11 @@
   url = "https://books.vinpatel.com"
   weight = 30
 
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 40
+
 #[[main]]
 # name = "Blog"
 #pageRef = "posts"
