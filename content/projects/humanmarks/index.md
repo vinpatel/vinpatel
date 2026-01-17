@@ -7,7 +7,6 @@ summary: "The only AI detector that runs 100% on your infrastructure. Detect AI-
 slug: "humanmark"
 tags: ["AI", "Open Source", "Privacy", "Go", "Self-Hosted", "Content Moderation"]
 categories: ["Projects"]
-externalUrl: "https://github.com/vinpatel/HumanMark"
 showTableOfContents: true
 showHero: true
 heroStyle: "background"
