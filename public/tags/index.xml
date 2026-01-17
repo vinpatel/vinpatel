@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ContentCreation</title>
+      <link>http://localhost:1313/tags/contentcreation/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/contentcreation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GenerativeAI</title>
+      <link>http://localhost:1313/tags/generativeai/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/generativeai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VideoAI</title>
+      <link>http://localhost:1313/tags/videoai/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/videoai/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
