@@ -10,6 +10,8 @@ categories: ["Projects"]
 showTableOfContents: true
 showHero: true
 heroStyle: "background"
+thumbnail: "thumb.svg"
+featureimage: "feature.svg"
 ---
 
 {{< lead >}}
